@@ -1,0 +1,18 @@
+1. Crea una carpeta nueva llamada “ejercicio” e inicializa el repositorio (está será el directorio de trabajo para este repositorio).
+Verifica
+2. Crea un archivo "instrucciones.txt" con el contenido del texto de este ejercicio y pégalo en la carpeta del repositorio.
+Verifica
+3. Crea en el directorio de trabajo un archivo de texto llamado “file-1.txt” que contenga algo (cualquier texto) y guárdalo.
+4. Crea un segundo archivo de texto llamado “file-2.txt” sin contenido.
+5. Añade "file-1.txt" y "file-2.txt" al staging area pero no añadas "instrucciones.txt".
+Verifica
+6. Ahora añade todos los archivos en el directorio de trabajo al staging area.
+Verifica
+7. Crea el primer commit.
+Verifica
+Verifica el listado de archivos en la rama.
+8. Crea una segunda rama llamada “rama2” y cámbiate a ella.
+Verifica
+Verifica el listado de archivos en la rama.
+9. Crea un tercer archivo de texto ("file-3.txt") a la carpeta de trabajo (ya en esta rama2).
+Verifica
